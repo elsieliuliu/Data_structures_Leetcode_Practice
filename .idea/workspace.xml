@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf12552-e0bf-4f33-980d-077a9711c4a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data_structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Memoizatoni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_1_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_2_longestCommonString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_3_AddBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_1_Integer_Replacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_2_Roman_to_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_3_Integer_to_roman.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mDDYVEYoA0gOFl1e9gCMCxGQTS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1_1_1.executor": "Run",
+    "Python.1_1_1_substring.executor": "Run",
+    "Python.1_1_2_longestCommonString.executor": "Run",
+    "Python.1_1_3_AddBits.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/elsie/Documents/Codepath/Data_structures",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf12552-e0bf-4f33-980d-077a9711c4a4" name="Changes" comment="" />
+      <created>1726602300862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726602300862</updated>
+    </task>
+    <servers />
+  </component>
+</project>
