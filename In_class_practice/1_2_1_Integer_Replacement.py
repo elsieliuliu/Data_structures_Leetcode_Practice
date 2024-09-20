@@ -1,6 +1,6 @@
 '''
 Problem #1: Integer Replacement
-Problem on Leetcode: Integer Replacement
+Problem on Leetcode: 397_Integer Replacement
 
 
 Given a positive integer n, you can apply one of the following operations:
@@ -26,3 +26,19 @@ Example 3:
 Input: n = 4
 Output: 2
 '''
+class Solution:
+    def __init__(self):
+        self.cache = {1: 0}
+    def integerReplacement(self, n: int) -> int:
+        if n not in self.cache:
+            if n % 2 == 0:
+                self.cache[n] = 1 + self.integerReplacement(n//2)
+            else:
+                self.cache[n] = 1 + min(self.integerReplacement(n-1), self.integerReplacement(n+1))
+        return self.cache[n]
+
+#test
+n = 8
+solution = Solution()
+print(solution.integerReplacement(n))
+

@@ -18,6 +18,16 @@ def fibonacci(n, memo={}):
 
 # Example usage:
 print(fibonacci(10))
+'''
+or the cache outside the function
+'''
+cache = {0: 0, 1: 1} #initalized with base case
+
+def fibo(n):
+    if n in cache:
+        return fibo(n)
+    cache[n] = fibo(n-1) + fibo(n-2)
+    return cache[n]
 
 #See recursion without memo:
 def fibonaccii(n):

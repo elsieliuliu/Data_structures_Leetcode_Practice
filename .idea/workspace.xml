@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf12552-e0bf-4f33-980d-077a9711c4a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data_structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Memoizatoni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_1_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_2_longestCommonString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_1_3_AddBits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_1_Integer_Replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_2_Roman_to_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/In_class_practice/1_2_3_Integer_to_roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Memoizatoni.py" beforeDir="false" afterPath="$PROJECT_DIR$/01Memoizatoni.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In_class_practice/1_2_1_Integer_Replacement.py" beforeDir="false" afterPath="$PROJECT_DIR$/In_class_practice/1_2_1_Integer_Replacement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In_class_practice/1_2_2_Roman_to_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/In_class_practice/1_2_2_Roman_to_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/In_class_practice/1_2_3_Integer_to_roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/In_class_practice/1_2_3_Integer_to_roman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +43,9 @@
     "Python.1_1_1_substring.executor": "Run",
     "Python.1_1_2_longestCommonString.executor": "Run",
     "Python.1_1_3_AddBits.executor": "Run",
+    "Python.1_2_1_Integer_Replacement.executor": "Run",
+    "Python.1_2_2_Roman_to_integer.executor": "Run",
+    "Python.1_2_3_Integer_to_roman.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
